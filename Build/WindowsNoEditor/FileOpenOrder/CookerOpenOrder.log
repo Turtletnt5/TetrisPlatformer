@@ -1,81 +1,81 @@
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/youLose.uasset" 0
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/youLose.uexp" 1
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/Tutorial2.uasset" 2
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/Tutorial2.uexp" 3
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/Tutorial.uasset" 4
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/Tutorial.uexp" 5
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/StartMenu.uasset" 6
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/StartMenu.uexp" 7
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 8
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 9
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 10
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 11
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 12
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 13
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 14
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 15
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_Male_N.uasset" 16
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_Male_N.uexp" 17
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_Male_N.ubulk" 18
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 19
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_Male_Mask.uexp" 20
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Textures/T_Male_Mask.ubulk" 21
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 22
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 23
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 24
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 25
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 26
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 27
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 28
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 29
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 30
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 31
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 32
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 33
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 34
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 35
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 36
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 37
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 38
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 39
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 40
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 41
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/youLose.uasset" 0
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/youLose.uexp" 1
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/Tutorial2.uasset" 2
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/Tutorial2.uexp" 3
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/Tutorial.uasset" 4
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/Tutorial.uexp" 5
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/StartMenu.uasset" 6
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/StartMenu.uexp" 7
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 8
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 9
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 10
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 11
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 12
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 13
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 14
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 15
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_Male_N.uasset" 16
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_Male_N.uexp" 17
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_Male_N.ubulk" 18
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 19
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_Male_Mask.uexp" 20
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Textures/T_Male_Mask.ubulk" 21
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 22
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 23
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 24
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 25
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 26
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 27
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 28
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 29
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 30
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 31
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 32
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 33
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 34
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 35
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 36
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 37
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 38
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 39
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 40
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 41
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 42
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 43
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 44
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 45
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 46
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 47
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 48
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/M_Male_Body.uexp" 49
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 50
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 51
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 52
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uexp" 53
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 54
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Character/Mesh/SK_Mannequin.uexp" 55
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 48
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/M_Male_Body.uexp" 49
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 50
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 51
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 52
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uexp" 53
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 54
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Character/Mesh/SK_Mannequin.uexp" 55
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 56
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 57
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 58
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPersonWalk.uexp" 59
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPersonRun.uasset" 60
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPersonRun.uexp" 61
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 62
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPersonIdle.uexp" 63
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 64
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uexp" 65
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 66
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPerson_Jump.uexp" 67
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 68
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPersonJump_Start.uexp" 69
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 70
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPersonJump_Loop.uexp" 71
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 72
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 73
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" 74
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uexp" 75
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 76
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uexp" 77
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 58
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPersonWalk.uexp" 59
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPersonRun.uasset" 60
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPersonRun.uexp" 61
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 62
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPersonIdle.uexp" 63
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 64
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uexp" 65
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 66
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPerson_Jump.uexp" 67
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 68
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPersonJump_Start.uexp" 69
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 70
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPersonJump_Loop.uexp" 71
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 72
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 73
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" 74
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uexp" 75
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 76
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uexp" 77
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 78
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 79
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 80
@@ -613,9 +613,9 @@
 "../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 612
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 613
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 614
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset" 615
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uexp" 616
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.ubulk" 617
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset" 615
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uexp" 616
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.ubulk" 617
 "../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 618
 "../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 619
 "../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 620
@@ -626,42 +626,42 @@
 "../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 625
 "../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 626
 "../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 627
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/youWin.uasset" 628
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Blueprints/youWin.uexp" 629
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Geometry/Meshes/CubeMaterial.uasset" 630
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Geometry/Meshes/CubeMaterial.uexp" 631
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Geometry/Meshes/TemplateFloor.uasset" 632
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Geometry/Meshes/TemplateFloor.uexp" 633
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Geometry/Meshes/1M_Cube.uasset" 634
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Geometry/Meshes/1M_Cube.uexp" 635
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/youWin.uasset" 628
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/youWin.uexp" 629
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Geometry/Meshes/CubeMaterial.uasset" 630
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Geometry/Meshes/CubeMaterial.uexp" 631
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Geometry/Meshes/TemplateFloor.uasset" 632
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Geometry/Meshes/TemplateFloor.uexp" 633
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Geometry/Meshes/1M_Cube.uasset" 634
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Geometry/Meshes/1M_Cube.uexp" 635
 "../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 636
 "../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 637
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/LblockMesh.uasset" 638
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/LblockMesh.uexp" 639
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/TblockMesh.uasset" 640
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/TblockMesh.uexp" 641
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/2X2squareMesh.uasset" 642
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/2X2squareMesh.uexp" 643
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/LeftZipBlockMesh.uasset" 644
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/LeftZipBlockMesh.uexp" 645
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/straightBlockMesh.uasset" 646
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/straightBlockMesh.uexp" 647
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/RightZipBlockMesh.uasset" 648
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/blockMesh/RightZipBlockMesh.uexp" 649
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/RightZipBlockBlueprint.uasset" 650
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/RightZipBlockBlueprint.uexp" 651
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/straightBlockBlueprint.uasset" 652
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/straightBlockBlueprint.uexp" 653
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/LeftZipBlueprint.uasset" 654
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/LeftZipBlueprint.uexp" 655
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/2x2Squareblueprint.uasset" 656
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/2x2Squareblueprint.uexp" 657
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/TBlockBlueprint.uasset" 658
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/TBlockBlueprint.uexp" 659
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/LblockBlueprint.uasset" 660
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/Blocks/LblockBlueprint.uexp" 661
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap.uexp" 662
-"D:/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" 663
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/LblockMesh.uasset" 638
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/LblockMesh.uexp" 639
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/LeftZipBlockMesh.uasset" 640
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/LeftZipBlockMesh.uexp" 641
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/straightBlockMesh.uasset" 642
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/straightBlockMesh.uexp" 643
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/TblockMesh.uasset" 644
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/TblockMesh.uexp" 645
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/RightZipBlockMesh.uasset" 646
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/RightZipBlockMesh.uexp" 647
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/RightZipBlockBlueprint.uasset" 648
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/RightZipBlockBlueprint.uexp" 649
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/TBlockBlueprint.uasset" 650
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/TBlockBlueprint.uexp" 651
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/straightBlockBlueprint.uasset" 652
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/straightBlockBlueprint.uexp" 653
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/LeftZipBlueprint.uasset" 654
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/LeftZipBlueprint.uexp" 655
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/2X2squareMesh.uasset" 656
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/blockMesh/2X2squareMesh.uexp" 657
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/2x2Squareblueprint.uasset" 658
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/2x2Squareblueprint.uexp" 659
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/LblockBlueprint.uasset" 660
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/Blocks/LblockBlueprint.uexp" 661
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap.uexp" 662
+"D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" 663
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 664
 "../../../Engine/Content/Maps/Entry_BuiltData.uexp" 665
 "../../../Engine/Content/Maps/Entry.uexp" 666

@@ -892,3 +892,1187 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.30-17.39.02:957][  0]LogAssetRegistry: Asset discovery search completed in 3.8300 seconds
 [2022.01.30-17.39.02:962][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2022.01.30-17.39.02:964][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.30-18.50.33:427][256]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2022.01.30-18.50.34:885][342]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.01.30-18.50.35:018][350]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.01.30-18.50.35:401][373]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.01.30-18.50.42:960][826]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.01.30-18.50.49:856][238]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.01.30-18.51.18:242][915]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.01.30-18.51.19:118][952]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.01.30-18.51.21:803][111]LogRenderer: Reallocating scene render targets to support 1160x448 Format 10 NumSamples 1 (Frame:9156).
+[2022.01.30-18.51.21:829][112]LogRenderer: Reallocating scene render targets to support 1164x448 Format 10 NumSamples 1 (Frame:9158).
+[2022.01.30-18.51.21:853][113]LogRenderer: Reallocating scene render targets to support 1168x448 Format 10 NumSamples 1 (Frame:9160).
+[2022.01.30-18.51.21:973][119]LogRenderer: Reallocating scene render targets to support 1172x448 Format 10 NumSamples 1 (Frame:9170).
+[2022.01.30-18.51.22:023][121]LogRenderer: Reallocating scene render targets to support 1176x448 Format 10 NumSamples 1 (Frame:9174).
+[2022.01.30-18.51.22:071][123]LogRenderer: Reallocating scene render targets to support 1180x448 Format 10 NumSamples 1 (Frame:9178).
+[2022.01.30-18.51.22:101][124]LogRenderer: Reallocating scene render targets to support 1188x448 Format 10 NumSamples 1 (Frame:9180).
+[2022.01.30-18.51.22:134][125]LogRenderer: Reallocating scene render targets to support 1196x448 Format 10 NumSamples 1 (Frame:9182).
+[2022.01.30-18.51.22:265][132]LogRenderer: Reallocating scene render targets to support 1200x448 Format 10 NumSamples 1 (Frame:9186).
+[2022.01.30-18.51.22:339][135]LogRenderer: Reallocating scene render targets to support 1204x448 Format 10 NumSamples 1 (Frame:9192).
+[2022.01.30-18.51.22:388][137]LogRenderer: Reallocating scene render targets to support 1208x448 Format 10 NumSamples 1 (Frame:9196).
+[2022.01.30-18.51.22:568][147]LogRenderer: Reallocating scene render targets to support 1212x448 Format 10 NumSamples 1 (Frame:9200).
+[2022.01.30-18.51.22:622][149]LogRenderer: Reallocating scene render targets to support 1216x448 Format 10 NumSamples 1 (Frame:9204).
+[2022.01.30-18.51.22:690][152]LogRenderer: Reallocating scene render targets to support 1220x448 Format 10 NumSamples 1 (Frame:9210).
+[2022.01.30-18.51.24:977][287]LogRenderer: Reallocating scene render targets to support 1220x452 Format 10 NumSamples 1 (Frame:9339).
+[2022.01.30-18.51.25:009][288]LogRenderer: Reallocating scene render targets to support 1220x460 Format 10 NumSamples 1 (Frame:9341).
+[2022.01.30-18.51.25:039][289]LogRenderer: Reallocating scene render targets to support 1220x472 Format 10 NumSamples 1 (Frame:9343).
+[2022.01.30-18.51.25:073][290]LogRenderer: Reallocating scene render targets to support 1220x476 Format 10 NumSamples 1 (Frame:9345).
+[2022.01.30-18.51.25:106][291]LogRenderer: Reallocating scene render targets to support 1220x480 Format 10 NumSamples 1 (Frame:9347).
+[2022.01.30-18.51.25:139][292]LogRenderer: Reallocating scene render targets to support 1220x488 Format 10 NumSamples 1 (Frame:9349).
+[2022.01.30-18.51.25:165][293]LogRenderer: Reallocating scene render targets to support 1220x500 Format 10 NumSamples 1 (Frame:9351).
+[2022.01.30-18.51.25:196][294]LogRenderer: Reallocating scene render targets to support 1220x504 Format 10 NumSamples 1 (Frame:9353).
+[2022.01.30-18.51.25:225][295]LogRenderer: Reallocating scene render targets to support 1220x512 Format 10 NumSamples 1 (Frame:9355).
+[2022.01.30-18.51.25:259][296]LogRenderer: Reallocating scene render targets to support 1220x516 Format 10 NumSamples 1 (Frame:9357).
+[2022.01.30-18.51.26:245][354]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.01.30-18.51.45:667][479]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.01.30-18.51.48:895][668]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (WinBox)
+[2022.01.30-18.52.08:772][835]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.01.30-18.52.22:026][621]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.01.30-18.52.23:039][680]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (WinBox)
+[2022.01.30-18.52.28:191][982]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-18.52.28:200][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-18.52.28:201][982]PIE: New page: PIE session: SideScrollerExampleMap (Jan. 30, 2022, 8:52:28 a.m.)
+[2022.01.30-18.52.28:202][982]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.30-18.52.28:204][982]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.30-18.52.28:204][982]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.52.28:217][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012910s)
+[2022.01.30-18.52.28:218][982]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.01.30-18.52.28:218][982]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2022.01.30-18.52.28:218][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014665s)
+[2022.01.30-18.52.28:232][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.01.30-18.52.28:234][982]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.30-18.52.28:234][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-18.52.28:234][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-18.52.28:234][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-18.52.28:234][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-18.52.28:234][982]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-18.52.28:234][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-18.52.28:234][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-18.52.28:234][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-18.52.28:235][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-18.52.28:235][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-18.52.28:235][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-18.52.28:235][982]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-18.52.28:238][982]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-18.52.28:238][982]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-18.52.28:260][982]LogAudioMixer: Display: Using Audio Device Speakers (JBL Quantum 800* Game)
+[2022.01.30-18.52.28:261][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-18.52.28:261][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-18.52.28:261][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-18.52.28:261][982]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-18.52.28:261][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-18.52.28:261][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-18.52.28:262][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-18.52.28:262][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-18.52.28:262][982]LogInit: FAudioDevice initialized.
+[2022.01.30-18.52.28:262][982]LogAudio: Display: Audio Device (ID: 2) registered with world 'SideScrollerExampleMap'.
+[2022.01.30-18.52.28:269][982]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.30-18.52.28:270][982]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.01.30-13.52.28
+[2022.01.30-18.52.28:271][982]LogWorld: Bringing up level for play took: 0.001252
+[2022.01.30-18.52.28:271][982]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.01.30-18.52.28:274][982]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.01.30-18.52.28:275][982]PIE: Server logged in
+[2022.01.30-18.52.28:276][982]PIE: Play in editor total start time 0.079 seconds.
+[2022.01.30-18.52.33:341][284]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.01.30-18.52.33:341][284]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.01.30-18.52.33:341][284]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.52.33:342][284]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.52.33:342][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.52.33:346][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-18.52.33:347][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.01.30-18.52.33:348][284]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.52.33:356][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007659s)
+[2022.01.30-18.52.33:357][284]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.01.30-18.52.33:357][284]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2022.01.30-18.52.33:357][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.008969s)
+[2022.01.30-18.52.33:357][284]LogAudio: Display: Audio Device (ID: 2) registered with world 'SideScrollerExampleMap'.
+[2022.01.30-18.52.33:357][284]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.30-18.52.33:361][284]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.01.30-13.52.33
+[2022.01.30-18.52.33:361][284]LogWorld: Bringing up level for play took: 0.004096
+[2022.01.30-18.52.33:362][284]LogLoad: Took 0.021021 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2022.01.30-18.52.44:984][965]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 25965
+[2022.01.30-18.52.44:986][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.52.44:991][966]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.30-18.52.44:993][966]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.30-18.52.44:994][966]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.30-18.52.50:545][275]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 310
+[2022.01.30-18.52.50:546][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.52.50:557][276]LogSlate: Took 0.001011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.30-18.52.50:561][276]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.30-18.52.50:562][276]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.30-18.52.51:657][342]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.01.30-18.52.51:657][342]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.01.30-18.52.51:657][342]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.52.51:657][342]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.52.51:657][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.52.51:692][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-18.52.51:693][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.30-18.52.51:695][342]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.52.51:703][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007622s)
+[2022.01.30-18.52.51:704][342]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.01.30-18.52.51:705][342]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2022.01.30-18.52.51:705][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009338s)
+[2022.01.30-18.52.51:705][342]LogAudio: Display: Audio Device (ID: 2) registered with world 'SideScrollerExampleMap'.
+[2022.01.30-18.52.51:705][342]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.30-18.52.51:712][342]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.01.30-13.52.51
+[2022.01.30-18.52.51:712][342]LogWorld: Bringing up level for play took: 0.007533
+[2022.01.30-18.52.51:713][342]LogLoad: Took 0.056775 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2022.01.30-18.52.59:393][802]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.01.30-18.52.59:393][802]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.01.30-18.52.59:393][802]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.52.59:394][802]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.52.59:394][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.52.59:397][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-18.52.59:399][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.01.30-18.52.59:400][802]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.52.59:407][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008082s)
+[2022.01.30-18.52.59:408][802]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.01.30-18.52.59:408][802]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2022.01.30-18.52.59:408][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009597s)
+[2022.01.30-18.52.59:408][802]LogAudio: Display: Audio Device (ID: 2) registered with world 'SideScrollerExampleMap'.
+[2022.01.30-18.52.59:408][802]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.30-18.52.59:419][802]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.01.30-13.52.59
+[2022.01.30-18.52.59:419][802]LogWorld: Bringing up level for play took: 0.009854
+[2022.01.30-18.52.59:420][802]LogLoad: Took 0.027946 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2022.01.30-18.53.02:427][977]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode
+[2022.01.30-18.53.02:560][977]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.01.30-18.53.07:376][200]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.01.30-18.53.07:795][200]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.30-18.53.07:842][201]LogSlate: Took 0.000646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.30-18.53.21:982][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-18.53.21:982][947]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.53.21:982][947]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.53.21:983][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.53.22:004][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-18.53.22:017][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.53.22:035][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-18.53.22:036][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-18.53.22:037][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-18.53.22:045][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.01.30-18.53.22:066][948]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.01.30-18.53.34:925][577]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (WinBox)
+[2022.01.30-18.53.35:129][589]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (WinBox)
+[2022.01.30-18.53.35:632][619]LogEditorViewport: Clicking on Actor (context menu): TriggerBox (WinBox)
+[2022.01.30-18.53.39:636][852]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.30-18.53.39:657][852]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap
+[2022.01.30-18.54.06:410][118]BlueprintLog: New page: Compile SideScrollerExampleMap
+[2022.01.30-18.54.06:451][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.01.30-18.54.06:476][118]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.30-18.54.08:495][224]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-18.54.08:513][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-18.54.08:513][224]PIE: New page: PIE session: SideScrollerExampleMap (Jan. 30, 2022, 8:54:08 a.m.)
+[2022.01.30-18.54.08:513][224]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.54.08:526][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012139s)
+[2022.01.30-18.54.08:527][224]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.01.30-18.54.08:527][224]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2022.01.30-18.54.08:527][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013701s)
+[2022.01.30-18.54.08:552][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.01.30-18.54.08:554][224]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.30-18.54.08:554][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-18.54.08:554][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-18.54.08:554][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-18.54.08:554][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-18.54.08:554][224]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-18.54.08:554][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-18.54.08:554][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-18.54.08:554][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-18.54.08:554][224]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-18.54.08:555][224]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-18.54.08:555][224]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-18.54.08:555][224]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-18.54.08:558][224]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-18.54.08:558][224]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-18.54.08:582][224]LogAudioMixer: Display: Using Audio Device Speakers (JBL Quantum 800* Game)
+[2022.01.30-18.54.08:582][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-18.54.08:582][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-18.54.08:582][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-18.54.08:583][224]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-18.54.08:583][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-18.54.08:583][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-18.54.08:584][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-18.54.08:584][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-18.54.08:584][224]LogInit: FAudioDevice initialized.
+[2022.01.30-18.54.08:584][224]LogAudio: Display: Audio Device (ID: 3) registered with world 'SideScrollerExampleMap'.
+[2022.01.30-18.54.08:595][224]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.30-18.54.08:597][224]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.01.30-13.54.08
+[2022.01.30-18.54.08:597][224]LogWorld: Bringing up level for play took: 0.001513
+[2022.01.30-18.54.08:597][224]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.01.30-18.54.08:600][224]PIE: Server logged in
+[2022.01.30-18.54.08:600][224]PIE: Play in editor total start time 0.093 seconds.
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B906B3D6C-4506-35BE-7BFD-D2AFEFC91491%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=538bbe094c8f9c8b0472229664ceefa5%7C8be0036666c740d682fae04e6f40e1e4%7C4dfc28d3-0a4d-4e6a-8880-4cdd46457b13&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: request failed, libcurl error: 0 (No error)
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e21727feb0 [can pipeline])
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.55.204.142) port 443 (#0))
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: libcurl info message cache 7 (Closing connection 0)
+[2022.01.30-18.54.11:217][381]LogHttp: Warning: 000001E2B827A400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.01.30-18.54.11:234][382]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B906B3D6C-4506-35BE-7BFD-D2AFEFC91491%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=538bbe094c8f9c8b0472229664ceefa5%7C8be0036666c740d682fae04e6f40e1e4%7C4dfc28d3-0a4d-4e6a-8880-4cdd46457b13&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.30-18.54.12:448][454]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.01.30-18.54.12:448][454]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.01.30-18.54.12:448][454]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.54.12:448][454]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.54.12:448][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.54.12:485][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.30-18.54.12:488][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.01.30-18.54.12:489][454]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.54.12:497][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007830s)
+[2022.01.30-18.54.12:497][454]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.01.30-18.54.12:497][454]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2022.01.30-18.54.12:497][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.008864s)
+[2022.01.30-18.54.12:497][454]LogAudio: Display: Audio Device (ID: 3) registered with world 'SideScrollerExampleMap'.
+[2022.01.30-18.54.12:497][454]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.30-18.54.12:502][454]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.01.30-13.54.12
+[2022.01.30-18.54.12:502][454]LogWorld: Bringing up level for play took: 0.005110
+[2022.01.30-18.54.12:503][454]LogLoad: Took 0.056532 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2022.01.30-18.54.18:095][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-18.54.18:098][789]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.54.18:120][789]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.54.18:120][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.54.18:129][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-18.54.18:140][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.54.18:155][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-18.54.18:155][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-18.54.18:156][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-18.54.18:164][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.01.30-18.54.18:206][790]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.01.30-18.54.39:790][780]BlueprintLog: New page: Compile SideScrollerCharacter
+[2022.01.30-18.54.39:838][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.01.30-18.54.41:954][880]LogSavePackage: Moving '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/SideScrollerCharacter21BE0F5D4619B703C21F7C9A32F91FFC.tmp' to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2022.01.30-18.54.41:974][880]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2022.01.30-18.54.41:974][880]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.01.30-18.54.44:991][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-18.54.45:001][ 30]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.30-18.54.45:002][ 30]LogPlayLevel: [PlayLevel] Compiling SideScrollerExampleMap before play...
+[2022.01.30-18.54.45:038][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.01.30-18.54.45:039][ 30]LogPlayLevel: PlayLevel: Blueprint regeneration took 37 ms (1 blueprints)
+[2022.01.30-18.54.45:039][ 30]PIE: New page: PIE session: SideScrollerExampleMap (Jan. 30, 2022, 8:54:45 a.m.)
+[2022.01.30-18.54.45:039][ 30]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.54.45:047][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007955s)
+[2022.01.30-18.54.45:048][ 30]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.01.30-18.54.45:049][ 30]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2022.01.30-18.54.45:049][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009298s)
+[2022.01.30-18.54.45:072][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.01.30-18.54.45:073][ 30]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.30-18.54.45:073][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-18.54.45:073][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-18.54.45:073][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-18.54.45:073][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-18.54.45:073][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-18.54.45:073][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-18.54.45:073][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-18.54.45:073][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-18.54.45:073][ 30]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-18.54.45:073][ 30]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-18.54.45:073][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-18.54.45:073][ 30]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-18.54.45:076][ 30]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-18.54.45:076][ 30]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-18.54.45:097][ 30]LogAudioMixer: Display: Using Audio Device Speakers (JBL Quantum 800* Game)
+[2022.01.30-18.54.45:097][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-18.54.45:097][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-18.54.45:097][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-18.54.45:097][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-18.54.45:097][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-18.54.45:097][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-18.54.45:098][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-18.54.45:098][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-18.54.45:098][ 30]LogInit: FAudioDevice initialized.
+[2022.01.30-18.54.45:098][ 30]LogAudio: Display: Audio Device (ID: 4) registered with world 'SideScrollerExampleMap'.
+[2022.01.30-18.54.45:108][ 30]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.01.30-18.54.45:110][ 30]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.01.30-13.54.45
+[2022.01.30-18.54.45:110][ 30]LogWorld: Bringing up level for play took: 0.001375
+[2022.01.30-18.54.45:110][ 30]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.01.30-18.54.45:112][ 30]PIE: Server logged in
+[2022.01.30-18.54.45:113][ 30]PIE: Play in editor total start time 0.116 seconds.
+[2022.01.30-18.55.05:710][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-18.55.05:713][265]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.01.30-18.55.05:714][265]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.55.05:714][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.55.05:720][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-18.55.05:732][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.55.05:748][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-18.55.05:748][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-18.55.05:749][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-18.55.05:756][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.01.30-18.55.05:820][267]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.01.30-18.55.06:427][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.01.30-18.55.06:444][300]LogSavePackage: Moving '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/SideScrollerExampleMap07D417B14BA39BB169CF969443BAA466.tmp' to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2022.01.30-18.55.06:648][300]LogSavePackage: Moving '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/SideScrollerExampleMap_BuiltDataA320CFCE4F4E13D8E5A3F495E56DCD95.tmp' to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2022.01.30-18.55.06:662][300]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.30-18.55.06:662][300]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2022.01.30-18.55.06:662][300]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2022.01.30-18.55.10:735][539]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.01.30-18.55.13:829][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.01.30-18.55.14:382][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.01.30-18.55.14:739][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.01.30-18.55.15:161][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.01.30-18.55.15:886][842]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (WinBox)
+[2022.01.30-18.55.19:264][ 43]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.01.30-18.55.22:017][205]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.01.30-18.55.22:715][245]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.01.30-18.55.53:102][ 42]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.01.30-18.56.07:075][612]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blocks/2x2Squareblueprint.2x2Squareblueprint
+[2022.01.30-18.56.54:608][693]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blocks/blockMesh/LblockMesh.LblockMesh
+[2022.01.30-18.56.54:659][693]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.01.30-18.56.54:725][693]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.30-18.56.55:227][694]LogRenderer: Reallocating scene render targets to support 1220x708 Format 10 NumSamples 1 (Frame:1).
+[2022.01.30-18.57.49:524][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blocks/LblockBlueprint.LblockBlueprint
+[2022.01.30-18.57.58:076][953]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.57.58:076][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.58.02:506][171]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blocks/TBlockBlueprint.TBlockBlueprint
+[2022.01.30-18.58.08:659][431]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.58.08:659][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.58.17:907][920]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blocks/blockMesh/TblockMesh.TblockMesh
+[2022.01.30-18.58.42:674][ 37]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.58.42:674][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.58.47:886][290]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.58.47:886][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-18.58.54:335][645]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.01.30-18.59.09:122][507]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blocks/blockMesh/TblockMesh.TblockMesh
+[2022.01.30-18.59.31:165][507]LogEditorTransaction: Undo StaticMesh: Material changed
+[2022.01.30-18.59.31:617][514]LogEditorTransaction: Undo StaticMesh: Material changed
+[2022.01.30-18.59.37:168][762]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-18.59.37:168][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-19.00.05:239][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.01.30-19.00.05:264][208]LogSavePackage: Moving '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/SideScrollerExampleMapF672E93B4732F10B8942978770F1A621.tmp' to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2022.01.30-19.00.05:380][208]LogSavePackage: Moving '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/SideScrollerExampleMap_BuiltDataA7E1BC1E41265446F1AFD983F70A21A2.tmp' to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2022.01.30-19.00.05:396][208]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.30-19.00.05:396][208]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2022.01.30-19.00.05:396][208]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2022.01.30-19.00.09:032][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.01.30-19.00.09:913][375]LogMainFrame: Project does not require temp target
+[2022.01.30-19.00.09:914][375]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.01.30-19.00.10:187][375]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2022.01.30-19.00.10:249][380]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/tetrisPlatformer.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/tetrisPlatformer.uproject" -cook -stage -archive -archivedirectory=C:/Users/Turtl/Documents -package -ue4exe="D:\epic games games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -distribution -nodebuginfo -targetplatform=Win64 -clientconfig=Shipping -utf8output
+[2022.01.30-19.00.10:817][413]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\tetrisPlatformer.uproject
+[2022.01.30-19.00.10:993][423]UATHelper: Packaging (Windows (64-bit)): WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2022.01.30-19.00.10:993][423]UATHelper: Packaging (Windows (64-bit)): D:\epic games games\UE_4.27\Engine\Plugins\VRM4U\VRM4U.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2022.01.30-19.00.10:993][423]PackagingResults: Warning: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2022.01.30-19.00.10:993][423]PackagingResults: Warning: The 'Developer' module type has been deprecated in 4.24.
+[2022.01.30-19.00.11:082][429]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2022.01.30-19.00.11:082][429]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\tetrisPlatformer.uproject
+[2022.01.30-19.00.11:082][429]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\epic games games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.01.30-14.00.11.txt
+[2022.01.30-19.00.11:082][429]UATHelper: Packaging (Windows (64-bit)): Running: D:\epic games games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe "D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\tetrisPlatformer.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="D:\epic games games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.01.30-14.00.11.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.01.30-19.00.11:729][465]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.01.30-19.00.11:729][465]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.01.30-19.00.11:729][465]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: tetrisPlatformer
+[2022.01.30-19.00.12:532][508]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2022.01.30-19.00.13:060][524]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 32 GB [34088898560 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.30-19.00.13:372][530]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.30-19.00.13:384][531]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.30-19.00.13:384][531]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.30-19.00.13:384][531]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.30-19.00.13:384][531]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.30-19.00.13:384][531]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.30-19.00.13:384][531]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.30-19.00.13:384][531]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.30-19.00.13:384][531]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.30-19.00.13:384][531]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.30-19.00.13:384][531]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.30-19.00.13:415][533]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.30-19.00.13:415][533]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.30-19.00.13:415][533]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.30-19.00.13:437][534]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.30-19.00.13:437][534]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.30-19.00.13:437][534]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.30-19.00.13:455][535]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.30-19.00.13:455][535]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.30-19.00.13:455][535]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.30-19.00.13:488][537]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.30-19.00.13:488][537]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.30-19.00.13:488][537]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.30-19.00.13:504][538]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.30-19.00.13:504][538]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.30-19.00.13:504][538]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.30-19.00.13:522][539]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.30-19.00.13:522][539]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.30-19.00.13:522][539]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.30-19.00.13:538][540]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.30-19.00.13:538][540]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.30-19.00.13:557][541]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.30-19.00.13:557][541]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2022.01.30-19.00.13:557][541]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.30-19.00.13:593][543]UATHelper: Packaging (Windows (64-bit)):   LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.30-19.00.14:125][559]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.30-19.00.14:721][591]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.30-19.00.14:806][596]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Turtl/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.30-19.00.14:821][597]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.30-19.00.14:915][597]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/Turtl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=701.33MBs, RandomWriteSpeed=37.50MBs. Assigned SpeedClass 'Local'
+[2022.01.30-19.00.14:915][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Inisetting is different for  Game /Script/UnrealEd.ProjectPackagingSettings StagingDirectory 0, value (Path="C:/Users/Turtl/Documents") != (Path="D/humber/Humber year 2/game physics 158/game jam/tetrusPlatformer/TetrisPlatformerPakaging") invalidating cook
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Game:/Script/UnrealEd.ProjectPackagingSettings
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.021 seconds for platforms WindowsNoEditor
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Failed to asyncdelete directory 'D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Cooked/WindowsNoEditor_Del/0'. LastError == 5.
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5) Stats:
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 191 (19100.00%)
+[2022.01.30-19.00.23:316][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1962, Unique Shaders: 1951 (99.44%)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 5.10mb, Unique Shaders Size: 5.09mb (99.93%)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 48 Total 48
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=216, VirtualMemory=576MiB
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 144 Total 244
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 314 Packages Remain 0 Total 314
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=317, VirtualMemory=723MiB
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 330, size is 115.38kb
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'tetrisPlatformer' (PCD3D_SM5) Stats:
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 57, Unique Shadermaps: 50 (87.72%)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1947, Unique Shaders: 1582 (81.25%)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 3.76mb, Unique Shaders Size: 3.20mb (85.10%)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 9
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 493
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     18, 13, 9, 9, 9, 8, 7, 6, 6, 6
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Shaders/PCD3D_SM5/ShaderDebug-tetrisPlatformer-PCD3D_SM5/Dump.txt'
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 0.972232s total time 2.121563
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 789 MiB Peak Used physical 840 MiB
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.021s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.003s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 0.972s (8)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.001s (416)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 0.358s (314)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 0.609s (37)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.002s (19)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.203s (311)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.202s (295)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 0.356s (314)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 0.349s (314)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.002s (314)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.001s (311)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.002s (314)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.001s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.006s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.064s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.009s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.002s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.012s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.015s (1)
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.000374s to verify the EDL loading graph.
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000025
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000169
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=71
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=14
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=225
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=0.758132
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=31
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=213
+[2022.01.30-19.00.23:317][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=205
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=314
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.338372
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.055340
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.011382
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000080
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.000927
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.001265
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000140
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.060896
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.104828
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.028249
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=153.407032
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=7.459621
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=5.330569
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=2.127387
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.058943
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000015
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=1.064393
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.357984
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.355971
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.204573
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000064
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000013
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000026
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000006
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       775
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       775
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.087742
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.912258
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.15                   0.00             0         74.31
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.13                   0.13             0          5.86
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.06                   0.06             0          8.37
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.02                   0.02             0          5.84
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.02                   0.02             0         12.37
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          6.31
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.06
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    0.00                   0.00             0          0.11
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0         47.91
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Failed to asyncdelete directory 'D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Cooked/WindowsNoEditor_Del/0'. LastError == 5.
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 1 warning(s)
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  2.15 seconds
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Could not delete asyncdelete root directory 'D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Cooked/WindowsNoEditor_Del'.  LastError: 5.
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: ================================================
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)): Took 9.530009s to run UE4Editor-Cmd.exe, ExitCode=0
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\BaseEditor.ini
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\BaseEditorKeyBindings.ini
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\BaseEditorSettings.ini
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\BaseLightmass.ini
+[2022.01.30-19.00.23:318][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\BasePakFileRules.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\ConsoleVariables.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\Category.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\Editor.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\EditorTutorials.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\Engine.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\Keywords.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\PortableObjectExport.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\PortableObjectImport.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\PropertyNames.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\RepairData.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\ToolTips.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\epic games games\UE_4.27\Engine\Config\Localization\WordCount.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\Config\DefaultEditor.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\Config\DefaultEditorPerProjectUserSettings.ini
+[2022.01.30-19.00.23:319][597]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\Saved\StagedBuilds\WindowsNoEditor
+[2022.01.30-19.00.23:319][597]LogMainFrame: Project does not require temp target
+[2022.01.30-19.00.23:320][597]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.01.30-19.00.23:322][597]PackagingResults: Warning: Failed to asyncdelete directory 'D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Cooked/WindowsNoEditor_Del/0'. LastError == 5.
+[2022.01.30-19.00.23:433][599]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2022.01.30-19.00.23:498][603]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/tetrisPlatformer.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/tetrisPlatformer.uproject" -cook -stage -archive -archivedirectory="D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/TetrisPlatformerPakaging" -package -ue4exe="D:\epic games games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -distribution -nodebuginfo -targetplatform=Win64 -clientconfig=Shipping -utf8output
+[2022.01.30-19.00.24:122][629]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\tetrisPlatformer.uproject
+[2022.01.30-19.00.24:305][634]UATHelper: Packaging (Windows (64-bit)): WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2022.01.30-19.00.24:305][634]UATHelper: Packaging (Windows (64-bit)): D:\epic games games\UE_4.27\Engine\Plugins\VRM4U\VRM4U.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2022.01.30-19.00.24:305][634]PackagingResults: Warning: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2022.01.30-19.00.24:305][634]PackagingResults: Warning: The 'Developer' module type has been deprecated in 4.24.
+[2022.01.30-19.00.24:413][638]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2022.01.30-19.00.24:413][638]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\tetrisPlatformer.uproject
+[2022.01.30-19.00.24:413][638]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\epic games games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.01.30-14.00.24.txt
+[2022.01.30-19.00.24:413][638]UATHelper: Packaging (Windows (64-bit)): Running: D:\epic games games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe "D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\tetrisPlatformer.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="D:\epic games games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.01.30-14.00.24.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.01.30-19.00.25:214][680]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.01.30-19.00.25:214][680]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.01.30-19.00.25:214][680]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: tetrisPlatformer
+[2022.01.30-19.00.25:819][714]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2022.01.30-19.00.26:470][753]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 32 GB [34088898560 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.30-19.00.26:834][775]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.30-19.00.26:866][777]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.30-19.00.26:866][777]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.30-19.00.26:866][777]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.30-19.00.26:866][777]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.30-19.00.26:866][777]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.30-19.00.26:866][777]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.30-19.00.26:866][777]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.30-19.00.26:866][777]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.30-19.00.26:866][777]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.30-19.00.26:866][777]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.30-19.00.26:884][778]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.30-19.00.26:884][778]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.30-19.00.26:899][779]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.30-19.00.26:915][780]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.30-19.00.26:915][780]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.30-19.00.26:934][781]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.30-19.00.26:934][781]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.30-19.00.26:950][782]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.30-19.00.26:950][782]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.30-19.00.26:984][784]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.30-19.00.26:984][784]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.30-19.00.26:984][784]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.30-19.00.27:000][785]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.30-19.00.27:000][785]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.30-19.00.27:000][785]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.30-19.00.27:015][786]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.30-19.00.27:015][786]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.30-19.00.27:033][787]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.30-19.00.27:033][787]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.30-19.00.27:033][787]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.30-19.00.27:050][788]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.30-19.00.27:050][788]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2022.01.30-19.00.27:050][788]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.30-19.00.27:083][790]UATHelper: Packaging (Windows (64-bit)):   LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.30-19.00.27:813][815]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.30-19.00.28:486][817]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.30-19.00.28:486][817]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Turtl/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.30-19.00.28:486][817]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.30-19.00.28:486][817]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/Turtl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=904.98MBs, RandomWriteSpeed=56.03MBs. Assigned SpeedClass 'Local'
+[2022.01.30-19.00.30:486][823]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.30-19.00.30:486][823]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.30-19.00.30:819][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.30-19.00.30:819][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2022.01.30-19.00.30:819][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2022.01.30-19.00.31:151][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2022.01.30-19.00.31:151][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Inisetting is different for  Game /Script/UnrealEd.ProjectPackagingSettings StagingDirectory 0, value (Path="D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/TetrisPlatformerPakaging") != (Path="C/Users/Turtl/Documents") invalidating cook
+[2022.01.30-19.00.31:151][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Game:/Script/UnrealEd.ProjectPackagingSettings
+[2022.01.30-19.00.31:151][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2022.01.30-19.00.31:151][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Error: Could not clear asyncdelete root directory 'D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Cooked/WindowsNoEditor_Del'.  LastError: 5.
+[2022.01.30-19.00.31:151][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Failed to setup an async delete, falling back to synchronous delete.
+[2022.01.30-19.00.31:151][824]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.209 seconds for platforms WindowsNoEditor
+[2022.01.30-19.00.31:151][824]PackagingResults: Error: Could not clear asyncdelete root directory 'D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Cooked/WindowsNoEditor_Del'.  LastError: 5.
+[2022.01.30-19.00.31:152][824]PackagingResults: Warning: Failed to setup an async delete, falling back to synchronous delete.
+[2022.01.30-19.00.32:154][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.01.30-19.00.32:154][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5) Stats:
+[2022.01.30-19.00.32:154][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.00.32:154][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 191 (19100.00%)
+[2022.01.30-19.00.32:154][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1962, Unique Shaders: 1951 (99.44%)
+[2022.01.30-19.00.32:154][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 5.10mb, Unique Shaders Size: 5.09mb (99.93%)
+[2022.01.30-19.00.32:154][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.01.30-19.00.32:155][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.01.30-19.00.32:155][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.01.30-19.00.32:155][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2022.01.30-19.00.32:155][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.01.30-19.00.32:155][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+[2022.01.30-19.00.32:155][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+[2022.01.30-19.00.32:155][828]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.00.32:155][828]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 48 Total 48
+[2022.01.30-19.00.32:155][828]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=216, VirtualMemory=574MiB
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 314 Packages Remain 0 Total 314
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=317, VirtualMemory=718MiB
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 330, size is 115.38kb
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'tetrisPlatformer' (PCD3D_SM5) Stats:
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 57, Unique Shadermaps: 50 (87.72%)
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1947, Unique Shaders: 1582 (81.25%)
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 3.76mb, Unique Shaders Size: 3.20mb (85.10%)
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 9
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 493
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     18, 13, 9, 9, 9, 8, 7, 6, 6, 6
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Shaders/PCD3D_SM5/ShaderDebug-tetrisPlatformer-PCD3D_SM5/Dump.txt'
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 1.201680s total time 2.734322
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 782 MiB Peak Used physical 827 MiB
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.209s (1)
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.006s (1)
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.01.30-19.00.33:536][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 1.202s (8)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.001s (416)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 0.446s (314)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 0.750s (37)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.001s (15)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.232s (311)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.232s (299)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 0.454s (314)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 0.444s (314)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.003s (314)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.001s (311)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.003s (314)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.002s (1)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.002s (1)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.011s (1)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.002s (1)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.119s (1)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.012s (1)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.003s (1)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.019s (1)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.027s (1)
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.000654s to verify the EDL loading graph.
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000046
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000281
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2022.01.30-19.00.33:537][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=71
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=13
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=226
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=0.880386
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=31
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=213
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=205
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=314
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.429716
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.072289
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.014170
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000144
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.001189
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.002076
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000185
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.075720
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.130721
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.035857
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=153.407032
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=8.580475
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=5.829794
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=2.745164
+[2022.01.30-19.00.33:538][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.375356
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000017
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=1.364848
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.445858
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.454078
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.233738
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000115
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000020
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000031
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000006
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       775
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       775
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.087742
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.912258
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.18                   0.00             0         74.31
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.13                   0.13             0          5.86
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.07                   0.07             0          8.37
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.03                   0.03             0          5.84
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.02                   0.02             0         12.37
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          6.31
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    0.00                   0.00             0          0.11
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.06
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0         47.91
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Error: Could not clear asyncdelete root directory 'D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Cooked/WindowsNoEditor_Del'.  LastError: 5.
+[2022.01.30-19.00.33:539][832]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Failed to setup an async delete, falling back to synchronous delete.
+[2022.01.30-19.00.33:540][832]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.30-19.00.33:540][832]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Failure - 1 error(s), 1 warning(s)
+[2022.01.30-19.00.33:540][832]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.30-19.00.33:540][832]UATHelper: Packaging (Windows (64-bit)):   
+[2022.01.30-19.00.33:540][832]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  2.80 seconds
+[2022.01.30-19.00.33:861][833]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.30-19.00.33:861][833]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.01.30-19.00.33:861][833]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.01.30-19.00.33:861][833]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.01.30-19.00.33:861][833]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: ================================================
+[2022.01.30-19.00.34:196][834]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.01.30-19.00.34:529][835]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.01.30-19.00.35:544][837]UATHelper: Packaging (Windows (64-bit)): Took 10.8384463s to run UE4Editor-Cmd.exe, ExitCode=1
+[2022.01.30-19.00.35:544][837]UATHelper: Packaging (Windows (64-bit)): ERROR: Cook failed.
+[2022.01.30-19.00.35:544][837]UATHelper: Packaging (Windows (64-bit)):        (see C:\Users\Turtl\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+epic+games+games+UE_4.27\Log.txt for full exception trace)
+[2022.01.30-19.00.35:544][837]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2022.01.30-19.00.35:544][837]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2022.01.30-19.00.35:544][837]PackagingResults: Error: Unknown Cook Failure
+[2022.01.30-19.00.48:610][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.01.30-19.00.50:973][193]LogMainFrame: Project does not require temp target
+[2022.01.30-19.00.50:974][193]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2022.01.30-19.00.51:048][196]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2022.01.30-19.00.51:129][200]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/tetrisPlatformer.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/tetrisPlatformer.uproject" -cook -stage -archive -archivedirectory="D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/TetrisPlatformerPakaging" -package -ue4exe="D:\epic games games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -distribution -nodebuginfo -targetplatform=Win64 -clientconfig=Shipping -utf8output
+[2022.01.30-19.00.51:600][226]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\tetrisPlatformer.uproject
+[2022.01.30-19.00.51:729][233]UATHelper: Packaging (Windows (64-bit)): WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2022.01.30-19.00.51:729][233]UATHelper: Packaging (Windows (64-bit)): D:\epic games games\UE_4.27\Engine\Plugins\VRM4U\VRM4U.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2022.01.30-19.00.51:729][233]PackagingResults: Warning: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2022.01.30-19.00.51:729][233]PackagingResults: Warning: The 'Developer' module type has been deprecated in 4.24.
+[2022.01.30-19.00.51:801][238]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2022.01.30-19.00.51:801][238]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\tetrisPlatformer.uproject
+[2022.01.30-19.00.51:819][239]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\epic games games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.01.30-14.00.51.txt
+[2022.01.30-19.00.51:819][239]UATHelper: Packaging (Windows (64-bit)): Running: D:\epic games games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe "D:\humber\Humber year 2\game physics 158\game jam\TetrisPlatformer\tetrisPlatformer.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="D:\epic games games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.01.30-14.00.51.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.01.30-19.00.52:387][273]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.01.30-19.00.52:387][273]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.01.30-19.00.52:387][273]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: tetrisPlatformer
+[2022.01.30-19.00.52:903][304]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2022.01.30-19.00.53:405][334]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 32 GB [34088898560 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.30-19.00.53:738][354]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.30-19.00.53:754][355]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.30-19.00.53:754][355]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.30-19.00.53:754][355]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.30-19.00.53:754][355]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.30-19.00.53:754][355]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.30-19.00.53:754][355]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.30-19.00.53:754][355]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.30-19.00.53:754][355]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.30-19.00.53:754][355]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.30-19.00.53:754][355]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.30-19.00.53:772][356]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.30-19.00.53:772][356]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.30-19.00.53:790][357]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.30-19.00.53:790][357]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.30-19.00.53:790][357]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.30-19.00.53:790][357]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.30-19.00.53:806][358]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.30-19.00.53:806][358]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.30-19.00.53:806][358]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.30-19.00.53:839][360]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.30-19.00.53:839][360]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.30-19.00.53:839][360]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.30-19.00.53:855][361]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.30-19.00.53:855][361]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.30-19.00.53:855][361]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.30-19.00.53:871][362]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.30-19.00.53:871][362]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.30-19.00.53:871][362]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.30-19.00.53:871][362]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.30-19.00.53:887][363]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.30-19.00.53:887][363]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.30-19.00.53:887][363]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2022.01.30-19.00.53:887][363]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.30-19.00.53:920][365]UATHelper: Packaging (Windows (64-bit)):   LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.30-19.00.54:470][398]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.30-19.00.55:073][432]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.30-19.00.55:126][435]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Turtl/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.30-19.00.55:157][437]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.30-19.00.55:173][438]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/Turtl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=742.74MBs, RandomWriteSpeed=34.27MBs. Assigned SpeedClass 'Local'
+[2022.01.30-19.00.57:005][548]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.30-19.00.57:005][548]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.30-19.00.57:561][581]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.30-19.00.57:561][581]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2022.01.30-19.00.57:561][581]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2022.01.30-19.00.57:778][594]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2022.01.30-19.00.57:794][595]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2022.01.30-19.00.57:811][596]UATHelper: Packaging (Windows (64-bit)):   LogCook: Error: Could not clear asyncdelete root directory 'D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Cooked/WindowsNoEditor_Del'.  LastError: 5.
+[2022.01.30-19.00.57:811][596]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Failed to setup an async delete, falling back to synchronous delete.
+[2022.01.30-19.00.57:811][596]PackagingResults: Error: Could not clear asyncdelete root directory 'D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Cooked/WindowsNoEditor_Del'.  LastError: 5.
+[2022.01.30-19.00.57:811][596]PackagingResults: Warning: Failed to setup an async delete, falling back to synchronous delete.
+[2022.01.30-19.00.57:928][603]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.149 seconds for platforms WindowsNoEditor
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5) Stats:
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 191 (19100.00%)
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1962, Unique Shaders: 1951 (99.44%)
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 5.10mb, Unique Shaders Size: 5.09mb (99.93%)
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+[2022.01.30-19.00.58:881][660]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+[2022.01.30-19.00.58:897][661]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.00.58:897][661]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 48 Total 48
+[2022.01.30-19.00.58:897][661]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=216, VirtualMemory=564MiB
+[2022.01.30-19.01.00:147][736]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 305 Packages Remain 8 Total 313
+[2022.01.30-19.01.00:200][739]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 314 Packages Remain 0 Total 314
+[2022.01.30-19.01.00:200][739]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=317, VirtualMemory=747MiB
+[2022.01.30-19.01.00:200][739]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2022.01.30-19.01.00:217][740]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2022.01.30-19.01.00:217][740]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2022.01.30-19.01.00:217][740]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.01.30-19.01.00:217][740]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.01.30-19.01.00:217][740]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.01.30-19.01.00:250][742]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2022.01.30-19.01.00:280][744]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 330, size is 115.38kb
+[2022.01.30-19.01.00:280][744]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.01.30-19.01.00:313][746]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.01.30-19.01.00:313][746]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'tetrisPlatformer' (PCD3D_SM5) Stats:
+[2022.01.30-19.01.00:313][746]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.01.00:313][746]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 57, Unique Shadermaps: 50 (87.72%)
+[2022.01.30-19.01.00:313][746]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1947, Unique Shaders: 1582 (81.25%)
+[2022.01.30-19.01.00:313][746]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 3.76mb, Unique Shaders Size: 3.20mb (85.10%)
+[2022.01.30-19.01.00:313][746]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 9
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 493
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     18, 13, 9, 9, 9, 8, 7, 6, 6, 6
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Shaders/PCD3D_SM5/ShaderDebug-tetrisPlatformer-PCD3D_SM5/Dump.txt'
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 1.286690s total time 2.771285
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 772 MiB Peak Used physical 800 MiB
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.149s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.005s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 1.287s (8)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.001s (416)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 0.454s (314)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 0.827s (37)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.002s (16)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.257s (311)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.256s (298)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 0.500s (314)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 0.488s (314)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.003s (314)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.002s (311)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.004s (314)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.004s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.002s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.014s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.086s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.012s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.003s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.022s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.017s (1)
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.000483s to verify the EDL loading graph.
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000033
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000303
+[2022.01.30-19.01.00:330][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=71
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=13
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=226
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=0.901078
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=31
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=213
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=205
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=314
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.471142
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.077532
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.014372
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000145
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.001277
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.002192
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000173
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.01.30-19.01.00:331][747]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.083195
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.142786
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.046575
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=153.407032
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.01.30-19.01.00:346][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=8.182296
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=5.403333
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=2.777416
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.346031
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000021
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=1.424953
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.453898
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.499800
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.258197
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000172
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000037
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000048
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000013
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       775
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       775
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.087742
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.912258
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.19                   0.00             0         74.31
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.15                   0.15             0          5.86
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.07                   0.07             0          8.37
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.03                   0.03             0          5.84
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.02                   0.02             0         12.37
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          6.31
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    0.00                   0.00             0          0.11
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.06
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0         47.91
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Error: Could not clear asyncdelete root directory 'D:/humber/Humber year 2/game physics 158/game jam/TetrisPlatformer/Saved/Cooked/WindowsNoEditor_Del'.  LastError: 5.
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Failed to setup an async delete, falling back to synchronous delete.
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Failure - 1 error(s), 1 warning(s)
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   
+[2022.01.30-19.01.00:347][748]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  2.80 seconds
+[2022.01.30-19.01.00:516][758]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.30-19.01.00:517][758]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.01.30-19.01.00:517][758]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.01.30-19.01.00:517][758]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.01.30-19.01.00:517][758]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: ================================================
+[2022.01.30-19.01.00:745][772]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.01.30-19.01.01:001][787]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.01.30-19.01.02:052][850]UATHelper: Packaging (Windows (64-bit)): Took 10.2366362s to run UE4Editor-Cmd.exe, ExitCode=1
+[2022.01.30-19.01.02:068][851]UATHelper: Packaging (Windows (64-bit)): ERROR: Cook failed.
+[2022.01.30-19.01.02:068][851]UATHelper: Packaging (Windows (64-bit)):        (see C:\Users\Turtl\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+epic+games+games+UE_4.27\Log.txt for full exception trace)
+[2022.01.30-19.01.02:084][852]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2022.01.30-19.01.02:100][853]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2022.01.30-19.01.02:107][853]PackagingResults: Error: Unknown Cook Failure
+[2022.01.30-19.01.13:864][467]LogSlate: Window 'Output Log' being destroyed
+[2022.01.30-19.01.13:889][467]LogSlate: Window 'Output Log' being destroyed
